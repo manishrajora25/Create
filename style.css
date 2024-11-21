@@ -1,0 +1,402 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+
+.header {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 30px;
+        color: white;
+        background-color: #3d5a80;
+    }
+    .new h3{
+padding-left: 100px;
+font-size: 27px;
+    }
+    
+    .mylist ul  {
+        font-size: 19px;
+        display: flex;
+        justify-content: space-evenly;
+        list-style: none; 
+    
+    }
+    
+    .mylist ul a{
+        color: white !important;
+        padding: 0px 20px;
+        margin-right: 100px;
+        text-decoration: none;
+        margin: 10px;
+        color: black;
+}
+
+.name {
+    color: white;
+    background-color:#ee6c4d;
+    padding: 4px 35px;
+  
+}
+.the{
+    color: #ee6c4d;
+}
+.website{
+    width: 460px;
+}
+.website h1{
+    font-size: 42px;
+}
+.website p{
+    font-size: 18px;
+}
+.themee a{
+    text-decoration: none;
+    color: white;
+    background-color: #ee6c4d;
+    margin-top: 30px;
+    padding: 10px 25px  10px 25px ; 
+    border-radius: 10px;
+}
+
+
+.themee{
+    margin-top: 30px;
+}
+.themee a:hover{
+    color: #ee6c4d;
+    background-color: white;
+    
+}
+.kohali{
+    width: 330px;
+    height: 460px;
+}
+.kohali img{
+    height: 100%;
+    width: 100%;
+}
+.create{
+    color: white;
+    background-color: #3d5a80;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+
+.haiper{
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+    position: absolute;
+    left: 240px;
+    top: 20px;
+}
+.haiper img{
+    height: 100%;
+    width: 100%;
+    background-color: #754538;
+    border-radius: 50%;
+    padding: 10px;
+    
+}
+.haiper2{
+    height: 300px;
+    width: 360px;
+    margin: 50px;
+
+}
+.haiper2 img{
+    height: 100%;
+    width: 100%;
+    padding: 15px;
+}
+
+.testabout{
+    width: 500px;
+    margin-right: 60px;
+}
+.testabout h3{
+    font-size: 25px;
+}
+
+.testme{
+
+   width: 100%;
+   height: 450px;
+    color: white;
+    background-color:#293241;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+} 
+
+.googale{
+    height: 150px;
+    width: 150px;
+}
+.googale img{
+    height: 100%;
+    width: 100%;
+}
+.Bolt{
+    height: 50px;
+    width: 100px; 
+}
+.Bolt img{
+    height: 100%;
+    width: 100%;
+}
+.amazon{
+    height: 220px;
+    width: 220px; 
+}
+.amazon img{
+    height: 100%;
+    width: 100%;
+}
+.paypal{
+    height: 100px;
+    width: 120px; 
+}
+.paypal img{
+    height: 100%;
+    width: 100%;
+}
+.Netflix{
+    height: 100px;
+    width: 120px; 
+}
+.Netflix img{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+.haveworked h2{
+    color: white;
+    padding-top: 30px;
+    text-align:center;
+  
+}
+.have{
+    padding-top: 10px;
+    margin-left: 550px;
+}
+.haveworked{
+    background-color: #2f3746;
+    width: 100%;
+    height: 250px;
+   
+}
+.companies{
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.recent h3{
+    padding: 40px 0px 0px 85px;
+    color: white;
+    font-size: 25px;
+}
+.under{
+    padding-left: 80px;
+}
+.recent{
+    background-color: #293241;
+    width: 100%;
+    height: 750px;
+}
+.ecommerce p{
+    color: white;
+    padding-bottom: 8px;
+}
+    
+
+.ecommerce{
+    height: 200px;
+    width: 340px;
+    margin-top: 50px;
+}
+.ecommerce img{
+    height: 100%;
+    width: 100%;
+}
+
+.maninthis{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.seemore a{
+    text-decoration: none;
+    color: #ee6c4d;
+    border: 1px solid #ee6c4d;
+    padding: 10px 35px;
+   
+}
+.seemore{
+    padding-top: 70px;
+    text-align: center;
+}
+.seemore a:hover{
+    color: white;
+    background-color: #ee6c4d;
+    border-radius: 10px;
+}
+
+
+
+.carousel-item img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.dim{
+    height: 35px;
+    width: 35px;
+   
+}
+.dim img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.charlesdim{
+    color: white;
+    display: flex;
+  
+}
+.charlesdim h5{
+    font-size: 15px;
+}
+.charlesdim p{
+    font-size: 11px;
+   
+}
+.paragraph p{
+    margin-top: 10px;
+    color: white;
+}
+.information{
+  
+    width: 500px;
+    margin-top: 20px;
+    height: 160px;
+    padding: 10px;
+    background-color: #1a1e26;
+}
+.internet{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+.whatmy h2{
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 30px;
+    
+}
+.whatmy{
+    width: 100%;
+    height: 450px;
+    background-color: #2f3746;
+}
+.grafice{
+    padding-left: 550px;
+    padding-top: 8x;
+}
+
+.tellme p{
+   padding-left: 115px;
+    font-size: 25px;
+    padding-top:50px ;
+    color: white;
+}
+.mainsite{
+    padding-left: 100px;
+}
+.name2 input{
+    color: white;
+    /* background-color: #1a1e26; */
+    width: 550px;
+    height: 40px;
+    margin: 10px;
+    font-size: 17px;
+    border-radius: 6px;
+}
+.firstname{
+    padding-top:30px ;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.box textarea{
+   
+    margin-top: 20px;
+    font-size: 17px;
+
+  width: 1120px;
+  height: 100px;
+  padding: 10px 20px;
+  margin-left: 115px;
+}
+.evry a{
+    text-decoration: none;
+    color: white;
+    background-color: #ee6c4d;
+  
+    padding: 10px 30px;
+}
+.evry{
+    margin: 20px 115px;
+}
+
+.evry a:hover{
+    color: white;
+    background-color: darkorchid;
+    border-radius: 10px;
+}
+.tellme{
+    background-color: #3d5a80;
+    width: 100%;
+    height: 400px;
+}
+.testcontact{
+    display: flex;
+}
+.allraihts{
+    color: white;
+    height: 80px;
+    width: 100%;
+    background-color: #2f3746;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.withme span{
+    font-size: 20px;
+    color: white;
+    padding-left: 20px;
+}
